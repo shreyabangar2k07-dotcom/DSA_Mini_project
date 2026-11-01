@@ -1,0 +1,16 @@
+Serial No.,Common Name,Scientific Name,No. of Bases,Dataset Folder,Source FASTA File,Species
+1,Asian elephant,Elephas maximus,1770,Elephas_maximus,Elephas_maximus.fasta,Mammals
+2,Dog,Canis lupus familiaris,1301,Canis_lupus_familiaris,Canis_lupus_familiaris.fasta,Mammals
+3,Fruit fly,Drosophila melanogaster,2815,Drosophila_melanogaster,Drosophila_melanogaster.fasta,Insects
+4,Hay bacillus,Bacillus subtilis,2497,Bacillus_subtilis,Bacillus subtilis_0(3).fasta,Bacteria
+5,Honey bee,Apis mellifera,1830,Apis_mellifera,Apis_mellifera.fasta,Insects
+6,Human,Homo sapiens,1824,Human_HBB,human_hbb_yoruba_19_0(3).fasta,Mammals
+7,Human papillomavirus 16,Human papillomavirus type 16,2827,Human_papillomavirus,Human_papillomavirus_16.fasta,Virus
+8,Roundworm,Caenorhabditis elegans,1877,Caenorhabditis_elegans,Caenorhabditis_elegans.fasta,Other Animals 
+9,Rice,Oryza sativa,624,Oryza_sativa_TDNA_target,Oryza sativa T-DNA integration target genomic sequence(4).fasta,Plants
+10,Sunflower,Helianthus annuus,1401,Helianthus_annuus,Helianthus_annuus.fasta,Plants
+11,Thale cress,Arabidopsis thaliana,1685,Arabidopsis_thaliana_histone_H2A,Arabidopsis thaliana histone H2A(2).fasta,Plants
+12,Tiger,Panthera tigris,2114,Panthera_tigris,Panthera_tigris.fasta,Mammals
+13,Tomato,Solanum lycopersicum,2851,Solanum_ycopersicum,Solanum_ycopersicum.fasta,Plants
+14,Tuberculosis bacterium,Mycobacterium tuberculosis,1797,Mycobacterium_tuberculosis,Mycobacterium_tuberculosis.fasta,Bacteria
+15,Zebrafish,Danio rerio,2517,Danio_rerio,Danio_rerio.fasta,Other Animals 
