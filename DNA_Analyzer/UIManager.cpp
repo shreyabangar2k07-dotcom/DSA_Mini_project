@@ -15,7 +15,7 @@ void UIManager::clearScreen() {
 
 void UIManager::displayMenu() {
     std::cout << "\n=========================================\n";
-    std::cout << "      BaseX - DNA Sequence Analyzer      \n";
+    std::cout << "          DNA Sequence Analyzer      \n";
     std::cout << "=========================================\n";
     std::cout << "1. Compare DNA Sequences (FASTA)\n";
     std::cout << "2. View Comparison History (CSV)\n";
